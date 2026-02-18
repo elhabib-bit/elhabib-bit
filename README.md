@@ -78,8 +78,8 @@ Automatic subtitle generation from audio
 ## 🌐 Connect With Me
 
 * LinkedIn: [your-link]
-* Portfolio: [your-site]
-* Email: [your@email.com](mailto:your@email.com)
+* Portfolio: [https://portfolio-git-master-elhabib-bits-projects.vercel.app/]
+* Email: [your@email.com](mailto:elhabibchama@email.com)
 
 ---
 
