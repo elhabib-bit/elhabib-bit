@@ -1,4 +1,6 @@
 ![GitHub Stats](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20El%20Habib%20👋&fontAlign=50&section=header&animation=fadeIn&fontAlignY=50&descAlign=44&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|Game%20Developer)
+
+
 💡 Passionate about AI Agents, Deep Learning, and SaaS products
 🌍 Based in Morocco
 
